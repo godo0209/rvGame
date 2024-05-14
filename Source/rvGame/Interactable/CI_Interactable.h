@@ -21,11 +21,11 @@ class RVGAME_API ICI_Interactable
 	GENERATED_BODY()
 
 	// Add interface functions to this class. This is the class that will be inherited to implement this interface.
-
-	
 public:
 	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
 	void Interact();
 	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
 	void Can_Interact();
+	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
+	void Cannot_Interact();
 };
