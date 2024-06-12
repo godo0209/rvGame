@@ -6,7 +6,7 @@ This proyect was made for the subject of virtual reality in my fourth grade of c
 ## How to play ✒️
 The objective is to let the player explore and enjoy the experience but we can say that, on the testing map, when he has hit all the targets, the game is finished.
 
-See more on ()
+See more in the [User Manual](./User_Manual.md)
 
 ## Made with 🛠️
 
