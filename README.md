@@ -1,18 +1,20 @@
 
-# Buscar un titulo
+# NOWHERE
 
-Poner algo de introduccion para el proyuecto
+This proyect was made for the subject of virtual reality in my fourth grade of college in University of Alicante. I don't have a devide to try it on so two maps have been created. One includes all the features until now, the other one just includes some weapons and features so that runs in the device. It was made for meta quest 3 so I can't tell if it works on other glasses.
+
+## How to play ✒️
+See more on ()
 
 ## Made with 🛠️
 
 The software used in this proyect was: 
 
-* [Unreal Engine 4.27](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Android Studio](https://maven.apache.org/) - Manejador de dependencias
-* [Blender](https://rometools.github.io/rome/) - Usado para generar RSS
-* [Photoshop](https://rometools.github.io/rome/) - Usado para generar RSS
-* [Clip Studio](https://rometools.github.io/rome/) - Usado para generar RSS
-
+* [Unreal Engine 4.27](https://www.unrealengine.com/) - Game engine
+* [Android Studio](https://developer.android.com/studio) - Packaging dependencies
+* [Blender](https://www.blender.org/) - 3d editor
+* [Photoshop](https://www.adobe.com/es/products/photoshop.html) - Image editor
+* [Clip Studio](https://www.clipstudio.net/en/) - Painting software
 
 ## Authors ✒️
 
@@ -93,9 +95,13 @@ Some of the assets in the game were made from existing 3d assets or tutorials. S
 
 ### Sounds
 
-* **kaazoom** - *Background music* - [The Magical Woods](https://pixabay.com/music/main-title-the-magical-woods-21393/) licensed under [Pixabay Content Licence](https://pixabay.com/service/license-summary/).
+* **Kaazoom** - *Background music* - [The Magical Woods](https://pixabay.com/music/main-title-the-magical-woods-21393/) licensed under [Pixabay Content Licence](https://pixabay.com/service/license-summary/).
 
-    ---
+* **Pixabay** - *Winning sound* - [GoodResult](https://pixabay.com/sound-effects/goodresult-82807/) licensed under [Pixabay Content Licence](https://pixabay.com/service/license-summary/).
+
+* **Liecio** - *Chest open sound* - [Shine Magic sound (4 sounds)](https://pixabay.com/sound-effects/shine-magic-sound-4-sounds-190258/) licensed under [Pixabay Content Licence](https://pixabay.com/service/license-summary/).
+
+* **Sonigon** - *Arrow impact sound* - [Crossbow impact arrow hit wood 6](https://www.soundsnap.com/crossbow_impact_arrow_hit_wood_6_wav) licensed under [Soundsnap Music License](https://www.soundsnap.com/stock-music/license).
 
 ### VFX
 
@@ -111,8 +117,6 @@ Some of the assets in the game were made from existing 3d assets or tutorials. S
 
 * **Dragon Motion** - *Fireflies particle effect* - [Particles and Wind Control System](https://www.unrealengine.com/marketplace/en-US/product/particles-and-wind-control-system).
 
-    ---
-
 ### Utils
 
 * **Nox_ygen** - *Create a material function that works as acolor ramp* - [Forum](https://www.reddit.com/r/unrealengine/comments/qdy2t7/making_a_color_ramp_in_unreal_engine/).
@@ -123,7 +127,9 @@ Some of the assets in the game were made from existing 3d assets or tutorials. S
 
 * **Unreal Engine** - *Populating meshes along a spline* - [Tutorial](https://www.youtube.com/watch?v=OdjvlvGRYRE).
 
+* **Recursoft** - *Easy implementation of state machine* - [Logic Driver Lite - State Machine Blueprint Editor](https://www.unrealengine.com/marketplace/en-US/product/logic-driver-lite).
 
+* **Woodcutter** - *Text font used in logo* - [Doctor Glitch](https://www.dafont.com/es/doctor-glitch.font) licensed under [Non defined](https://www.dafont.com/faq.php#copyright).
 
 ## Licence 📄
 
