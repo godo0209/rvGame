@@ -1,7 +1,9 @@
 
 # NOWHERE
 
-This proyect was made for the subject of virtual reality in my fourth grade of college in University of Alicante. I don't have a devide to try it on so two maps have been created. One includes all the features until now, the other one just includes some weapons and features so that runs in the device. It was made for meta quest 3 so I can't tell if it works on other glasses.
+This proyect was made for the subject of virtual reality in my fourth grade of college in University of Alicante. I don't have a devide to try it on so two maps have been created. One includes all the features until now, the other one just includes some weapons and features so that runs in the device. It was made for meta quest 3 so I can't tell if it works on other devices.
+
+I haven't finished this proyect yet but you can watch some of the features in the next videos: [Gameplay](https://youtu.be/Rgy23rLW3cU), [Easter egg](https://youtu.be/bcHo4SjJWzU)
 
 ## How to play ✒️
 The objective is to let the player explore and enjoy the experience but we can say that, on the testing map, when he has hit all the targets, the game is finished.
